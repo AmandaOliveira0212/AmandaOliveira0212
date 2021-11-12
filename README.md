@@ -8,6 +8,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaOliveira0212&layout=compact" />
 </a>
 
+img.{
+font-size: 12px;
+};
 
 <!--
 **AmandaOliveira0212/AmandaOliveira0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
