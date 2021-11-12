@@ -8,6 +8,9 @@
   <img align="center" width="300"src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaOliveira0212&layout=compact" />
 </a>
 
+.img {
+height="42"
+}
 
 
 <!--
