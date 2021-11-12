@@ -8,7 +8,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaOliveira0212&layout=compact" />
 </a>
 
-const themes = {
+
+
+const theme = {
   bg_color: "f7f7f7"
 };
 
