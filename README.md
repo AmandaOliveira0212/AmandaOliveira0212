@@ -1,9 +1,9 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaOliveira0212&bg_color=purple,pink,orange&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaOliveira0212&&bg_color=deg,red,purple,pink&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaOliveira0212)](https://github.com/AmandaOliveira0212/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaOliveira0212&theme=dark&show_icons=true)
+
 <!--
 **AmandaOliveira0212/AmandaOliveira0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
