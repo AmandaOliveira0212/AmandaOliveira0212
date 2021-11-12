@@ -1,5 +1,9 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaOliveira0212&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaOliveira0212&theme=radical&show_icons=true
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaOliveira0212&&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+&show_icons=true)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaOliveira0212)](https://github.com/AmandaOliveira0212/github-readme-stats)
 <!--
