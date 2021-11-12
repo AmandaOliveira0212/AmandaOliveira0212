@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernameAmandaOliveira0212=radical&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaOliveira0212&theme=radical&show_icons=true)
 <!--
 **AmandaOliveira0212/AmandaOliveira0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
