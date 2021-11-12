@@ -1,18 +1,8 @@
 ### Hi there 👋 
 ### Welcome to my profile 😄 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaOliveira0212&theme=dark&show_icons=true)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmandaOliveira0212&repo=github-readme-stats)](https://github.com/AmandaOliveira0212/github-readme-stats)
-
-
 <a href="https://github.com/AmandaOliveira021/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmandaOliveira0212&repo=github-readme-stats" />
-</a>
-
-<a href="https://github.com/AmandaOliveira0212/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmandaOliveira0212&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmandaOliveira0212&theme=radical&show_icons=true" />
 </a>
 
 <!--
