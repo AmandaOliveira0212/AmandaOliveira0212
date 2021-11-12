@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaOliveira0212&bg_color=purple,pink,orange&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaOliveira0212&&bg_color=deg,red,purple,pink&show_icons=true)
 
