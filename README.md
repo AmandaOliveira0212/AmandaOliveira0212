@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://git.io/typing-svg">
+<h1><a href="https://git.io/typing-svg">
 <img align="center" width="400" src="https://readme-typing-svg.herokuapp.com?color=%23C0B503&size=40&center=falso&vCenter=falso&width=670&height=70&lines=++++++++++++%3CHello+World+%2F%3E%F0%9F%98%84;%E2%9D%A4%EF%B8%8F%3CWelcome+to+my+profile!+%2F%3E+" />
-</a>
+</a></h1>
 </div>
 
 ###<div align="center"><h2>I'm Amanda, passionate about programming and future full-stack professional.</h2>
