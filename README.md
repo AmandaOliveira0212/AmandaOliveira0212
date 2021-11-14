@@ -1,13 +1,5 @@
-### Hi there 👋
-# Welcome to my profile 😄
-
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" style="background-color: #93B874" />
-</div>
-
-<div align="center">
-Hi there 👋
-welcome to my profile!
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" style="background-color: #93B874" />
 </div>
 
 ###<div align="center">Hi! 😄 welcome to my profile. I'm Amanda, passionate about programming and future full-stack professional.🥰</div>   
