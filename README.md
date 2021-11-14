@@ -1,5 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" style="background-color: #93B874" />
+<div>
+<a href="https://git.io/typing-svg">
+<img align="center" width="400" src="https://readme-typing-svg.herokuapp.com?color=%23C0B503&size=40&center=falso&vCenter=falso&lines=%3CHello+World!+%2F%3E+%F0%9F%98%84;%E2%9D%A4%EF%B8%8F+%3CWelcome+to+my+profile!+%2F%3E+" />
+</a>
 </div>
 
 ###<div align="center">Hi! 😄 welcome to my profile. I'm Amanda, passionate about programming and future full-stack professional.🥰</div>   
