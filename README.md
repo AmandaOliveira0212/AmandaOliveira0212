@@ -17,6 +17,9 @@
 <a href="https://github.com/AmandaOliveira0212/streak-stats">
   <img align="center" style="color:blue" width="300"src="http://github-readme-streak-stats.herokuapp.com?user=AmandaOliveira0212&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=920632" />
 </a>
+
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
 <!--
 **AmandaOliveira0212/AmandaOliveira0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
