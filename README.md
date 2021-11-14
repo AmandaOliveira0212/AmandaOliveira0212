@@ -10,6 +10,8 @@
 </a>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmandaOliveira0212&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=920632)](https://git.io/streak-stats)
+
 <!--
 **AmandaOliveira0212/AmandaOliveira0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
