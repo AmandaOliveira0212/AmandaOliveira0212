@@ -3,9 +3,12 @@
 <img align="center" width="800" src="https://readme-typing-svg.herokuapp.com?color=%23C0B503&size=40&center=falso&vCenter=falso&width=670&height=70&lines=++++++++++++%3CHello+World+%2F%3E%F0%9F%98%84;%E2%9D%A4%EF%B8%8F%3CWelcome+to+my+profile!+%2F%3E+" />
 </a></h1>
 </div>
-<div align="center"><h3>I'm Amanda, passionate about programming and future full-stack professional.🥰</h>
+
+<div align="center"><h4>I'm Amanda, passionate about programming and future full-stack professional.🥰</h>
 </div>   
-<div align="center"><h3>⚡ Have you seen my repository? Feel free for feedback.💬</h3s
+<div align="center"><h4>⚡ Have you seen my repository? Feel free for feedback.💬</h3s
+<P></P>
+<P></P>
 <P></P>
 <P></P>
 </div>  
