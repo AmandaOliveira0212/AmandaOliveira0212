@@ -23,7 +23,7 @@
 
 <div align="center">
 <a href="https://github.com/AmandaOliveira0212/streak-stats">
-  <img align="center" style="width:740px;" src="http://github-readme-streak-stats.herokuapp.com?user=AmandaOliveira0212&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=920632" />
+  <img align="center" style="width:600px;" src="http://github-readme-streak-stats.herokuapp.com?user=AmandaOliveira0212&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=920632" />
 </a>
 <P></P>
 </div>
