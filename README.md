@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<div align="center" style="position: absolute; left: 0; top: 0;">
+   <a 
+      ><img align="center"src="https://c4.wallpaperflare.com/wallpaper/312/711/679/mountains-the-game-lake-forest-wallpaper-preview.jpg">
+  <img align="center" style="position: relative; top: 0; left: 0" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+five+boxing+wizards+jump+quickly" />
+</a>
+<P></P>
+</div>
+ 
+ 
+ 
+ 
+ 
 <div align="center"><h3>I'm Amanda, passionate about programming and future full-stack professional.🥰</h3></div>
    
 <div align="center"><h3>⚡ Have you seen my repository? Feel free for feedback.💬</h3></div>
