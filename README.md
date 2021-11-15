@@ -9,7 +9,7 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEvwSoLEws&#x2F;view?embed">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEvwSoLEws&#x2F;view?utm_content=DAEvwSoLEws&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> de Amanda Oliveira
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEvwSoLEws&#x2F;view?utm_content=DAEvwSoLEws&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a>
 
 
 <div align="center"><h3>I'm Amanda, passionate about programming and future full-stack professional.🥰</h3></div>
