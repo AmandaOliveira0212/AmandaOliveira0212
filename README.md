@@ -6,12 +6,13 @@
 <a>
 <img align="center" width="850" src="https://readme-typing-svg.herokuapp.com?color=%23C8F715&center=verdade&vCenter=&height=70&lines=%3CHello+World!%2F%3E+%F0%9F%A5%B0;%3CWelcome+to+my+profile%2F%3E"/>
 </a>
-<a>
-</div>
 
 <a>
 <img src="https://c4.wallpaperflare.com/wallpaper/312/711/679/mountains-the-game-lake-forest-wallpaper-preview.jpg" alt="https://c4.wallpaperflare.com/wallpaper/312/711/679/mountains-the-game-lake-forest-wallpaper-preview.jpg" />
 </a>
+</div>
+
+
 
 <div align="center"><h3>I'm Amanda, passionate about programming and future full-stack professional.🥰</h3></div>
    
