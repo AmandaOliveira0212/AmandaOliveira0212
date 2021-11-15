@@ -2,19 +2,11 @@
 <html>
 <body>
 
-
-<div align="center" style="position: absolute; left: 0; top: 0;">
-   <a 
-      ><img align="center"src="https://c4.wallpaperflare.com/wallpaper/312/711/679/mountains-the-game-lake-forest-wallpaper-preview.jpg">
-  <img align="center" style="position: relative; top: 0; left: 0" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+five+boxing+wizards+jump+quickly" />
+<div align="center" style="position: absolute; left: 0; top: 0; ">
+<a>
+  <img align="center"src="https://readme-typing-svg.herokuapp.com?color=%23F2F707&size=40&center=true&width=600&height=200&lines=%3CHello+World!+%2F%3E+%F0%9F%A5%B0;%3CWelcome+to+my+profile+%2F%3E" />
 </a>
-<P></P>
-</div>
- 
- 
- 
- 
- 
+   
 <div align="center"><h3>I'm Amanda, passionate about programming and future full-stack professional.🥰</h3></div>
    
 <div align="center"><h3>⚡ Have you seen my repository? Feel free for feedback.💬</h3></div>
