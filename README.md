@@ -1,24 +1,15 @@
-<!DOCTYPE html>
-<html>
-<body>
-
- <div align="center">
-<img src="https://www.canva.com/design/DAEvwSoLEws/view" align="center" />
-<P></P>
-</div>
-
- 
- 
-<div class="m"; style="position: relative; width: 100%; height: 0; padding-top: 40.0000%;
+<div style="position: relative; width: 100%; height: 0; padding-top: 40.0000%;
  padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
-  <embed loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAEvwSoLEws/view?embed">
-  </embed>
+ <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEvwSoLEws&#x2F;view?embed">
+  </iframe>
 </div>
 
- 
- 
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEvwSoLEws&#x2F;view?embed" target="_blank" rel="noopener">Design</a> de Amanda Oliveira
+
+
+
 <div align="center"><h3>I'm Amanda, passionate about programming and future full-stack professional.🥰</h3></div>
    
 <div align="center"><h3>⚡ Have you seen my repository? Feel free for feedback.💬</h3></div>
@@ -43,8 +34,5 @@
 <img src="https://komarev.com/ghpvc/?username=AmandaOliveira0212&&style=flat-square" align="center" />
 <P></P>
 </div>
-
-</body>
-</html>
 
 
