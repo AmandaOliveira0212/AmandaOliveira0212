@@ -36,7 +36,7 @@
 </div>
   
 
-<h2 align="center">My Github Stats</h2>  
+<h2 align="center">My GitHub Stats</h2>  
 <div align="center">
   <a href="https://github.com/AmandaOliveira0212/github-readme-stats">
     <img align="center" width="400"  src="https://github-readme-stats.vercel.app/api?username=AmandaOliveira0212&theme=radical&show_icons=true&card_width=" />
