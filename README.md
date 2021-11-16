@@ -51,7 +51,8 @@
 <div align="center" style="width:600px;">
   <a href="https://github.com/AmandaOliveira0212/streak-stats">
    <img align="center"  src="http://github-readme-streak-stats.herokuapp.com?user=AmandaOliveira0212&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  <P></P>
+  <br>
+  <br>
   </a>
 </div>
 
@@ -60,8 +61,8 @@
  <a href="https://github.com/AmandaOliveira0212/github-readme-stats">
    <img align="center" src="https://komarev.com/ghpvc/?username=AmandaOliveira0212&color=blueviolet" />
  </a>
-   <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-   <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-   <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/amanda-oliveira-243482164/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+   <a href="https://www.instagram.com/amanda.olivsilva/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+   <a href="https://www.facebook.com/amanda.olivier.9231" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
   <p></p>
 </div>
