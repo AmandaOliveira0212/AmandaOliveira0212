@@ -10,7 +10,7 @@
   
 <div align="center">
   <h4>I'm Amanda, passionate about programming and future professional full-stack developer.🥰
-    <p>Graduation in systems analysis and development, internship in technical support.<br>Experience in administrative services in the health area.<br>Programming beginner. Passionate about adventures and overcoming challenges.</p>
+    <p>Graduation in systems analysis and development.<br>Experience in administrative services in the health area, technical support and ServiceNow.<br>Programming beginner. Passionate about adventures and overcoming challenges.</p>
     <p>⚡ Have you seen my repository? Feel free for feedback.💬</p>
   </h4>
   </br>
