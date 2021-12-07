@@ -31,7 +31,7 @@
    <a href="seu link" target="blank"><img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="" width="50"/></a>
    <a href="seu link" target="blank"><img align="center" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="" width="50"/></a>
    </a>
-   <a href="seu link" target="blank"><img align="center" src="https://cantium.solutions/wp-content/uploads/2020/08/ServiceNowNews1.jpg" alt="" width="50"/></a>
+   <a href="seu link" target="blank"><img align="center" src="https://mms.businesswire.com/media/20210916005232/en/788155/5/ServiceNow_logo_registered_april_28_2020.jpg?download=1" alt="" width="70"/></a>
  </br>
  </br>
  </br>
